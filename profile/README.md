@@ -18,3 +18,9 @@ Creative coding : Processing, p5.js, C++
 Live & Motion : parametric design and generative design, MadMapper, Adobe After Effects, Ableton live
 IA & Machine learning : ML5.js, Python
 
+
+[instagram](https://www.instagram.com/headmediadesign/)
+[youtube](https://www.youtube.com/@mastermediadesignheadgenev7419)
+[vimeo](https://vimeo.com/headmediadesign)
+
+[mastermediadesign.ch](https://mastermediadesign.ch/)
