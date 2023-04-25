@@ -20,7 +20,7 @@ IA & Machine learning : ML5.js, Python
 
 
 [instagram](https://www.instagram.com/headmediadesign/)
-[youtube](https://www.youtube.com/@mastermediadesignheadgenev7419)
-[vimeo](https://vimeo.com/headmediadesign)
+ | [youtube](https://www.youtube.com/@mastermediadesignheadgenev7419)
+ | [vimeo](https://vimeo.com/headmediadesign)
 
 [mastermediadesign.ch](https://mastermediadesign.ch/)
