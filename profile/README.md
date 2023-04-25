@@ -24,3 +24,26 @@ IA & Machine learning : ML5.js, Python
  | [vimeo](https://vimeo.com/headmediadesign)
 
 [mastermediadesign.ch](https://mastermediadesign.ch/)
+
+
+## Contributing
+
+### MMD Repository Structure Conventions
+
+- tutorials (like ___tutorial-interaction_design_tools___)
+
+        tutotrial-article_name
+
+- resourcies (like ___resource-3d_useful_links___)
+
+        resource-article_name
+    
+- workshops (like ___20230328-CV2-interaction-hybridTouch_sample___ or ___20221215-svg_to_AxiDraw_automation___)
+    
+        YYYYMMDD-conditional_section-workshop_or_project_name-details
+
+- student projects (like ___20230117-student-enola-fortune_tellor_office_of_Mrs_Magic_Cauldron___)
+
+        YYYYMMDD-student-student_name-project_name
+    
+
