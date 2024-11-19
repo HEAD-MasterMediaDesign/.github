@@ -1,6 +1,6 @@
 # Master Media Design
 
-## Interaction design in the age of AI and the ecological transition
+### Interaction design in the age of AI and the ecological transition
 
 The MA in Media Design is for students who want to specialize in interaction design and explore its potential. Over two years, you will create digital narratives, interfaces, games, immersive experiences, and interactive installations. You will engage with creative coding and tools such as AI, VR, AR, and game engines. Beyond purely technical training, you will conduct field research in order to create scenarios, understand user needs and design concepts that balance innovation with a human-centered, social, and environmentally responsible approach.
 
